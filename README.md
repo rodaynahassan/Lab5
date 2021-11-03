@@ -1,2 +1,3 @@
 # Lab5
-Getting introduced to github
+Getting introduced to git
+Creating a sample project
